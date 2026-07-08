@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year undergraduate student pursuing Electronics and Electrical Engineering at IIT Guwahati. My academic interests include programming, data structures, web development, and foundational machine learning concepts.<br><br>I have hands-on experience with Java, JavaScript, and Python, along with HTML, CSS, Node.js, Express.js, and MongoDB. I am also familiar with Python libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn for data analysis and basic machine learning tasks. I use Git and GitHub for version control and enjoy building practical, real-world projects.
+I am a third year undergraduate student pursuing Electronics and Electrical Engineering at IIT Guwahati. My academic interests include programming, data structures, web development, and foundational machine learning concepts.<br><br>I have hands-on experience with Java, JavaScript, and Python, along with HTML, CSS, Node.js, Express.js, and MongoDB. I am also familiar with Python libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn for data analysis and basic machine learning tasks. I use Git and GitHub for version control and enjoy building practical, real-world projects.
 
 
 ## 🌐 Socials:
